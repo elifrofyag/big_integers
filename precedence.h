@@ -2,7 +2,6 @@
 #include <vector>
 #include <string>
 
-#include "operation.h"
 
 using namespace std;
 

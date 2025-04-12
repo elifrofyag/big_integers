@@ -1,9 +1,9 @@
+#include "operation.h"
+
 #include <iostream>
 #include <string>
 #include <algorithm>
 
-
-#include "operation.h"
 
 using namespace std;
 

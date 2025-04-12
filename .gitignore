@@ -34,3 +34,6 @@
 # Environments
 *.venv
 *.env
+
+# output files
+out.txt
