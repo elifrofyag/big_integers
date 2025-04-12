@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
-#include "operation.h"
-#include "precedence.h"
+#include "header/operation.h"
+#include "header/precedence.h"
 
 using namespace std;
 
