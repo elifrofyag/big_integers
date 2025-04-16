@@ -35,5 +35,8 @@
 *.venv
 *.env
 
+# vscode
+*.vscode
+
 # output files
 out.txt

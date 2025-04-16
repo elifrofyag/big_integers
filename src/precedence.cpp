@@ -1,5 +1,5 @@
-#include "header/precedence.h"
-#include "header/operation.h"
+#include "./header/precedence.h"
+#include "./header/operation.h"
 
 #include <stack>
 #include <vector>
