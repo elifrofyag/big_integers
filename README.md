@@ -22,3 +22,6 @@ Run the code below and check `out.txt` in that same folder or terminal for outpu
 ```
 ./main ../test/test.txt ../test/out.txt
 ```
+
+## Existing Limitations
+1. not able to handle multiple unary minus/plus wrapped with parentheses. e.g. -(-(-(10))) or -----10 or -+-+-++10
